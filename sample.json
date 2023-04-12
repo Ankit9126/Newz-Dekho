@@ -1,0 +1,102 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Tashreeq Vardien",
+      "title": "Bafana player ratings: Foster shines on a gut-wrenching night to forget",
+      "description": "South Africa played out to a 2-2 draw against Liberia in an Afcon qualifier - a match they should have won. News24 Sports Tashreeq Vardien rates the Bafana Bafana players.",
+      "url": "https://www.news24.com/sport/soccer/bafanabafana/bafana-player-ratings-foster-shines-on-a-gut-wrenching-night-to-forget-20230325",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8629/16e7eedc1b2d4614bcbed3cef7f12993.jpg",
+      "publishedAt": "2023-03-25T07:17:24+00:00",
+      "content": "South Africa played out to a 2-2 draw against Liberia in an Afcon qualifier - a match they should have won.\r\nThat did not go as Bafana Bafana head coach Hugo Broos had planned.\r\nThe men's senior nati… [+4991 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Marc Ivaldi, Gilles Savary",
+      "title": "Transports : « Collectivités et contribuables locaux seront piégés dans le financement d’infrastructures démesurées qui devrait être du ressort de l’Etat »",
+      "description": "L’économiste Marc Ivaldi et l’ancien élu socialiste Gilles Savary démontrent, dans une tribune au « Monde », que les sociétés de projet mises en place pour construire les nouvelles lignes ferroviaires à grande vitesse ont pour but de récolter les taxes locale…",
+      "url": "https://www.lemonde.fr/idees/article/2023/03/25/transports-collectivites-et-contribuables-locaux-seront-pieges-dans-le-financement-d-infrastructures-demesurees-qui-devrait-etre-du-ressort-de-l-etat_6166932_3232.html",
+      "urlToImage": "https://img.lemde.fr/2020/03/04/0/0/3750/2500/1440/960/60/0/3100669_nbvSkmY-WVe5kI6w99ztwlxZ.jpg",
+      "publishedAt": "2023-03-25T05:30:34Z",
+      "content": "Lors de sa conférence de presse à loccasion de la remise du rapport du Conseil dorientation des infrastructures, le 24 février, Elisabeth Borne a annoncé que la Société du Grand Paris (SGP) serait mo… [+3050 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Le flash sports du 25 mars",
+      "description": "Retrouvez l'essentiel de l'actualité sportive avec votre flash L'Équipe quotidien.",
+      "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-25-mars/1387850",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001765447/0:0,1997:1331-640-427-75/4fac0.jpg",
+      "publishedAt": "2023-03-24T23:10:00+00:00",
+      "content": "La victoire des Bleus face au Pays-Bas (4-0) lors de la première journée des qualifications à l'Euro, le succès de Monaco face à Valence (90-79) lors de la 30e journée d'Euroligue, Wout van Aert vict… [+148 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Marco Margaritoff",
+      "title": "Tom Brady Announces Return To Sports With Unexpected Acquisition",
+      "description": "“It was a matter of time before I was back in the building with some of the greatest athletes in the world,” said the recently retired quarterback.",
+      "url": "https://www.huffpost.com/entry/tom-brady-announces-return-to-sports-with-unexpected-acquisition_n_641da289e4b0cfde25cabdc8",
+      "urlToImage": "https://img.huffingtonpost.com/asset/641daf572500006000ddaf14.jpeg?cache=crsbvgptIZ&ops=1200_630",
+      "publishedAt": "2023-03-24T16:31:34Z",
+      "content": "Tom Brady has announced his return to sports but not the one fans might have expected.\r\nThe recently retired football quarterback stunned his social media followers Thursday with an Instagram video a… [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "Brad Matthews",
+      "title": "State Department overhauls passport process for flood of Americans returning to foreign travel",
+      "description": "The State Department is beefing up its passport operation in response to soaring demand for U.S. passports.",
+      "url": "https://www.washingtontimes.com/news/2023/mar/24/state-department-overhauls-passport-process-flood-/",
+      "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2021/10/27/us_gender_passports_27322_c0-0-2500-1458_s1200x700.jpg?99c7ae3bdbf327c408533720fb3c8c1f3a8a793f",
+      "publishedAt": "2023-03-24T13:47:38Z",
+      "content": "The State Department is beefing up its passport operation in response to soaring demand for U.S. passports.\r\nThe department is receiving around 500,000 passport applications weekly, Secretary of Stat… [+1776 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "☄️ New &#x27;Hero Ball&#x27; Episode ☄️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/371669-hero-ball-2023-allstar-special",
+      "urlToImage": null,
+      "publishedAt": "2023-02-22T21:52:16.6066431Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    }
+  ]
+}
